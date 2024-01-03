@@ -1,0 +1,43 @@
+.productdisplay
+{
+    display: flex;
+    margin: 0px 170px;
+
+}
+
+.productdisplay-left
+{
+    display: flex;
+    gap: 17px;
+}
+
+.productdisplay-img-list{
+    display: flex;
+    flex-direction: column;
+    height: 100px;
+    width: 100px;
+    gap: 13px;
+}
+
+.productdisplay-img-list-img{
+    height: 163px;
+}
+
+.productdisplayy-main-img{
+    width: 406px;
+    height: 400px;
+}
+
+.productdisplay button{
+    padding: 20px 40px;
+    width: 200px;
+    font-size: 16px;
+    font-weight: 600;
+    color: white;
+    background: #ff4141;
+    margin-bottom: 400px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    height: 50px;
+}
